@@ -1,4 +1,4 @@
-# sorts.py
+# Selection_Sort.py
 # Ths file contains the sorting algorithms that will be used throughout this assignment
 
 def selection_sort(arr):
@@ -25,4 +25,3 @@ def selection_sort(arr):
 
 
 
-                if arr[min_index] > arr[j]:
