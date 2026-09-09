@@ -1,5 +1,5 @@
 # Selection_Sort.py
-# Ths file contains the sorting algorithms that will be used throughout this assignment
+# Ths file contains the 1st sorting algorithms that will be used throughout this assignment
 
 def selection_sort(arr):
     for i in range(len(arr)): #To find the length of the list
