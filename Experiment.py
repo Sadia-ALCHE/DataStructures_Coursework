@@ -56,3 +56,4 @@ for n in sizes_to_test:
 
     print(f"n = {n}")
     print(f"time_taken = {end - start:.6f} seconds")
+    print()
